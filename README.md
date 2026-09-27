@@ -1,5 +1,5 @@
 # Aura — Weather, Made Useful 
-[![CI](https://github.com/vav7/aura-weather/actions/workflows/ci.yml/badge.svg)](https://github.com/vav7/aura-weather/actions/workflows/ci.yml)
+
 **Live link - https://aura-weather-intelligence.vercel.app/**
 
 Aura is a premium, decision-focused weather web app built with React, TypeScript, and Vite. Instead of only showing forecast numbers, Aura turns weather and air-quality data into practical answers such as **where conditions are best, when to go outside, and what activity makes sense right now**.
