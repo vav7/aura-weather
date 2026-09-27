@@ -1,4 +1,4 @@
-# Aura — Weather, Made Useful 
+# Aura - Weather, Made Useful 
 
 **Live link - https://aura-weather-intelligence.vercel.app/**
 
