@@ -6,20 +6,20 @@ Aura is a premium, decision-focused weather web app built with React, TypeScript
 
 ## ✨ What Aura does
 
-- **World Pulse** — browse weather conditions across a global catalog of 99 cities.
-- **Live weather** — current conditions, hourly forecasts, and multi-day forecast data.
-- **Air quality** — current AQI data when available, surfaced alongside weather conditions.
-- **Weather intelligence** — scores and rankings turn raw weather data into useful decisions.
+- **World Pulse** - browse weather conditions across a global catalog of 99 cities.
+- **Live weather** - current conditions, hourly forecasts, and multi-day forecast data.
+- **Air quality** - current AQI data when available, surfaced alongside weather conditions.
+- **Weather intelligence** - scores and rankings turn raw weather data into useful decisions.
 - **Interactive Atlas board** - MapLibre globe with animated RainViewer precipitation radar, switchable score / clean-air / warmth heat layers, glowing top-10 markers and hover verdicts. The map chunk is viewport-gated (never downloaded until you scroll near it) and degrades to the classic SVG board offline or with `?atlas=legacy`.
-- **Activity-aware rankings** — explore the best places for overall weather, clean air, running, walking, travel, warmth, cool weather, low rain, high rain, and weekend escapes.
-- **Ask Aura** — a rule-based weather assistant that answers natural-language questions and can route users to city views, rankings, or comparisons.
-- **City details** — open a city for deeper weather, air-quality, activity-window, tonight, and tomorrow-vs-today insights.
-- **Compare cities** — compare up to four cities side by side.
-- **My Cities** — save favorite cities locally for quick access.
-- **Location support** — use browser geolocation to personalize the experience without making location permission a hard requirement.
-- **Dark/light UI** — premium glass-style interface with responsive layouts and reduced-motion support.
-- **Resilient data loading** — progressive city loading, request timeouts/retries, fallback-provider support, and timestamped local caching.
-- **Offline-friendly shell** — a service worker keeps the app shell available for returning visits while weather API calls remain live.
+- **Activity-aware rankings** - explore the best places for overall weather, clean air, running, walking, travel, warmth, cool weather, low rain, high rain, and weekend escapes.
+- **Ask Aura** - a rule-based weather assistant that answers natural-language questions and can route users to city views, rankings, or comparisons.
+- **City details** - open a city for deeper weather, air-quality, activity-window, tonight, and tomorrow-vs-today insights.
+- **Compare cities** - compare up to four cities side by side.
+- **My Cities** - save favorite cities locally for quick access.
+- **Location support** - use browser geolocation to personalize the experience without making location permission a hard requirement.
+- **Dark/light UI** - premium glass-style interface with responsive layouts and reduced-motion support.
+- **Resilient data loading** - progressive city loading, request timeouts/retries, fallback-provider support, and timestamped local caching.
+- **Offline-friendly shell** - a service worker keeps the app shell available for returning visits while weather API calls remain live.
 
 ## 🧱 Tech stack
 
@@ -224,7 +224,7 @@ This repository does not currently declare a software license. Add a `LICENSE` f
 
 ---
 
-**Aura — Weather, made useful.**
+**Aura - Weather, made useful.**
 
 ## 🛠 Engineering & quality gates
 
